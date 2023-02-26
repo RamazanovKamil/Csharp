@@ -9,4 +9,11 @@ touch hw5_commands.txt   - файл, в котором будут хранить
     bin/
     admin/
     config/
-4. 
+4. git add .
+5. git checkout -b comments
+6. mkdir blog
+    cd blog
+    touch index.js
+    touch index.html
+7. git remote add origin https://github.com/RamazanovKamil/Csharp.git
+    git push -u origin master
